@@ -4,17 +4,17 @@ VRM ファイルを WebAR で表示するサンプルです。
 
 スマホのブラウザさえあればコンテンツにアクセスできるので、AR アプリのボトルネックになりがちなインストールの手間を省けるのが利点です。
 
-<img src="https://raw.githubusercontent.com/t-takasaka/vrm-three-ar/master/demo.gif">
+<img src="https://raw.githubusercontent.com/naryu33/vrm-three-ar/master/demo.gif">
 
 ## デモ
 
-スマートフォンで下記のQRコードを読み取るか、ウェブカメラの付いたPCで[こちら](https://t-takasaka.github.io/vrm-three-ar/)にアクセスしてください。
+スマートフォンで下記のQRコードを読み取るか、ウェブカメラの付いたPCで[こちら](https://naryu33.github.io/vrm-three-ar/)にアクセスしてください。
 
 ページの表示後、再度、QRコードにカメラを向けるとモデルが表示されます。
 
 （読み込みにちょっと時間がかかります）
 
-<img src="https://raw.githubusercontent.com/t-takasaka/vrm-three-ar/master/assets/marker.png" width="300px">
+<img src="https://raw.githubusercontent.com/naryu33/vrm-three-ar/master/assets/marker.png" width="300px">
 
 ## インストールするには？
 
